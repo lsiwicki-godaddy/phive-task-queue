@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.4.0",
         "psr/log": "~1.0",
-        "rybakit/phive-queue": "dev-pagely-prod",
+        "rybakit/phive-queue": "dev-master",
         "rybakit/arguments-resolver": "0.4.*@dev",
         "symfony/property-access": "~2.5"
     },
@@ -49,12 +49,12 @@
             "type": "package",
             "package": {
                 "name": "rybakit/phive-queue",
-                "version": "dev-pagely-prod",
+                "version": "dev-master",
                 "type": "package",
                 "source": {
                     "url": "https://github.com/pagely/phive-queue",
                     "type": "git",
-                    "reference": "pagely-prod"
+                    "reference": "master"
                 }
             }
         }
