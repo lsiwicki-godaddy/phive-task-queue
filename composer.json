@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.4.0",
         "psr/log": "~1.0",
-        "pagely/phive-queue": "dev-pagely-prod",
+        "rybakit/phive-queue": "dev-pagely-prod",
         "rybakit/arguments-resolver": "0.4.*@dev",
         "symfony/property-access": "~2.5"
     },
