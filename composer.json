@@ -5,6 +5,7 @@
     "homepage": "https://github.com/rybakit/phive-task-queue",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Eugene Leonovich",
