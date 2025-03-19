@@ -44,6 +44,19 @@
         {
             "type": "vcs",
             "url": "https://github.com/pagely/phive-queue"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "rybakit/phive-queue",
+                "version": "dev-pagely-prod",
+                "type": "package",
+                "source": {
+                    "url": "https://github.com/pagely/phive-queue",
+                    "type": "git",
+                    "reference": "phive-queue"
+                }
+            }
         }
     ]
 }
