@@ -42,7 +42,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/lsiwicki-godaddy/phive-task-queue"
+            "url": "https://github.com/pagely/phive-queue"
         }
     ]
 }
