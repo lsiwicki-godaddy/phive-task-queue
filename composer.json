@@ -54,7 +54,7 @@
                 "source": {
                     "url": "https://github.com/pagely/phive-queue",
                     "type": "git",
-                    "reference": "phive-queue"
+                    "reference": "pagely-prod"
                 }
             }
         }
